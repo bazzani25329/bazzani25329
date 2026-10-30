@@ -1,16 +1,42 @@
-## Hi there 👋
+# Ciao! 👋
 
-<!--
-**bazzani25329/bazzani25329** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sono una studentessa di Informatica e questo è l'inizio
+del mio portfolio tecnico.
 
-Here are some ideas to get you started:
+## 👤 Qualcosa su di me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+sto imparando a usare github
+
+## ❤️ Le mie passioni
+
+- informatica
+- musica
+
+## 💻 Tecnologia ed esperienze
+
+Ho già avuto occasione di utilizzare o conoscere:
+
+- HTML 
+- CSS
+- C/C++
+
+## 🧠 Una cosa che potrei insegnare ai miei compagni
+
+...
+
+## 🔍 Cosa mi piacerebbe imparare
+
+- migliorare le mie conoscenze in campo informatico
+- assemby
+
+## 🚀 Un progetto che mi piacerebbe realizzare
+
+...
+
+## 🎯 Guardando al futuro
+
+- scuola: finire gli studi e conseguire il diprola
+- lavoro: trovare un lavoro che mi appassiona e mi permetta di viaggiare
+
+
+
